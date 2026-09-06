@@ -1,0 +1,10 @@
+:root {
+  --bg: #ffffff;
+  --fg: #212529;
+  --accent: #0d6efd;
+}
+
+html, body, #root {
+  margin: 0;
+  height: 100%;
+}
